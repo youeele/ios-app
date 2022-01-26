@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/youeele/ios-app/blob/553aa5f3010c24788297ea8809cb93f64a33c22c/engineeringcontrls.ipa</string>
+					<string>https://github.com/youeele/ios-app/blob/main/engineeringcontrls.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/youeele/ios-app/blob/a708856ee3e98cc93fc236e3963ebb2a520588b8/icon_gaitubao_57x57.png</string>
+					<string>https://raw.githubusercontent.com/youeele/ios-app/a708856ee3e98cc93fc236e3963ebb2a520588b8/icon_gaitubao_57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/youeele/ios-app/blob/44f035cbf91d77b4eec498989f7361ac491c78b7/icon.png</string>
+					<string>https://raw.githubusercontent.com/youeele/ios-app/553aa5f3010c24788297ea8809cb93f64a33c22c/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
