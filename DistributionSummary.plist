@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>工程管理.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>0.0.1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AF230E853CD1B862505D8B67895DDE9BC67D71AF</string>
+				<key>dateExpires</key>
+				<string>2023/2/10</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>95H996GE8X.cn.shjd.engineeringcontrls</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>95H996GE8X</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>工程管理.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9cdacb3a-cbe5-4c2f-98c5-b9b3d0cd3478</string>
+				<key>dateExpires</key>
+				<string>2023/2/10</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: cn.shjd.engineeringcontrls</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>95H996GE8X</string>
+				<key>name</key>
+				<string>tungsten xu</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
